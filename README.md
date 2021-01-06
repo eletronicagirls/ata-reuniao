@@ -2,8 +2,8 @@
 <img src="https://raw.githubusercontent.com/eletronicagirls/eletronicagirls.github.io/main/favicon.ico" alt="Logo">
 </div>
 
-### Atas da Reuniões**
+### Atas da Reuniões
 
 ---
 
-[ata da reunião de fundação](./reuniao-fundacao)
+[Ata da reunião de fundação](./reuniao-fundacao)
