@@ -1,8 +1,6 @@
 # Ata da Reunião do dia 10-01-2021
 
-Presentes:
-
-Nome:  localidade:    Github:     @usuario_telegram
+**Presentes:**
 
 |Nome:  |localidade:   |Github:   |@usuario_telegram  | 
 |---|---|---|---|
