@@ -4,19 +4,21 @@ Presentes:
 
 Nome:  localidade:    Github:     @usuario_telegram
 
+|Nome:  |localidade:   |Github:   |@usuario_telegram  | 
+|---|---|---|---|
+|Daviny Vidal   |São Paulo - SP   |davinyvidal   |@davinydev   |
+|   |   |   |   |
+|   |   |   |   |
 
 
 ## Abertura:
 
-
 <BR><BR>
 
 
-
-## Midias sociais
+## Mídias sociais
 
 <BR><BR>
-
 
 ## comissão do código de conduta
 
