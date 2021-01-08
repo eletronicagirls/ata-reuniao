@@ -13,16 +13,29 @@
 
 <BR><BR>
 
-
 ## Mídias sociais
 
+Para divulgação dos projetos, a princípio seria legal criar uma organização no Linkedin para colocarmos no nosso perfil, e uma conta no Twitter.
+  
+## Criação do E-mail no Gmail
+
+Criação de e-mail para contato no grupo, e ultilização do drive e formulários para contatos
+  
+## Criação dos procedimentos
+
+Procedimentos criado no decorrer das atividades, todos documentados no wiki
+
+## Comissão do código de conduta
+
 <BR><BR>
 
-## comissão do código de conduta
+## Comissão do logo
 
 <BR><BR>
 
-## comissão do logo
+## Primeiro Grupo de Estudo
+
+No semi-termino do código de conduta, podemos criar o nosso primeiro grupo de estudo.
 
 
 
