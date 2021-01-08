@@ -4,7 +4,7 @@
 
 |Nome:  |localidade:   |Github:   |@usuario_telegram  | 
 |---|---|---|---|
-|Daviny Vidal   |São Paulo - SP   |davinyvidal   |@davinydev   |
+|Daviny Vidal   |São Paulo - SP   |davinyvidal   |@devdaviny   |
 |   |   |   |   |
 |   |   |   |   |
 
