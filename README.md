@@ -2,4 +2,4 @@
 
 ---
 
-[Ata da reunião de fundação](./reuniao-fundacao)
+[Ata da reunião de fundação](./10-01-2021/)
