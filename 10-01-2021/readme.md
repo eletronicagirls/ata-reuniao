@@ -37,7 +37,7 @@ Procedimentos criado no decorrer das atividades, todos documentados no wiki
 
 No semi-termino do código de conduta, podemos criar o nosso primeiro grupo de estudo.
 
-## Primeiro Grupo de Estudo
+## Metas
 
 - Ter um domínio web
 - E-mail profissonal atrelado ao domínio
