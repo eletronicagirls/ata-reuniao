@@ -11,7 +11,7 @@
 
 ## Abertura:
 
-<BR><BR>
+[Slides de apresentação](FundacaoEletronicaGirls.pdf)
 
 ## Mídias sociais
 
