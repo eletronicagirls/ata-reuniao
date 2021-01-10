@@ -47,5 +47,6 @@ No semi-termino do código de conduta, podemos criar o nosso primeiro grupo de e
 - Divulgação de Projetos Científicos, Profissionais e Prêmio de Mulheres Inspiradoras
 - Sempre ter união e respeitando a minoria representada, tendo uma voz através de equiparidade nos **Grupos de Estudo** e **Assembléia de Planejamentos.**
 
+---
 
 - [Website site](https://eletronicagirls.github.io/)
