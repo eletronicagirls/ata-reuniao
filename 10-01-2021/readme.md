@@ -4,7 +4,7 @@
 
 |Nome:           |localidade:        |Github:         | 
 |---             |---                |---             |
-|Daviny Vidal    | São Paulo - SP    | davinyvida     |
+|Daviny Vidal    | São Paulo - SP    | davinyvidal    |
 |Alynne Ferreira | São Bernardo - SP | alynnefs       |
 |Jéssica Freitas | ---               | jess-gf        |
 |Marina Tukozaki | Guarulhos - SP    | Marinatukozaki |
