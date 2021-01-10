@@ -19,10 +19,10 @@
 
 Para divulgação dos projetos, a princípio seria legal criar uma organização no Linkedin para colocarmos no nosso perfil, e uma conta no Twitter, instagram (precisa do e-mail).
 
-E-mail: eletronicagirls@gmail.com
-Twitter: https://twitter.com/eletronicagirls
-Linkedin: https://www.linkedin.com/company/eletronicagirls
-Telegram (fechado, sem link de acesso, para termo mais controle no acesso ao grupo)
+ > E-mail: eletronicagirls@gmail.com
+ > Twitter: https://twitter.com/eletronicagirls
+ > Linkedin: https://www.linkedin.com/company/eletronicagirls
+ > Telegram (fechado, sem link de acesso, para termo mais controle no acesso ao grupo)
   
 ## Criação do E-mail no Gmail
 
