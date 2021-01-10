@@ -40,7 +40,7 @@ No semi-termino do código de conduta, podemos criar o nosso primeiro grupo de e
 ## Metas
 
 - Ter um domínio web
-- E-mail profissonal atrelado ao domínio
-- Expandir para apoia mais formações de grupo de estudo no Brasil
+- E-mail profissional atrelado ao domínio
+- Expandir para apoiá mais formações de grupo de estudo no Brasil
 - Divulgação de Projetos Científicos e Profissionais e Prêmio de Mulheres que Inspiradoras
-- Sempre ter união e respeitando a minoria representada, tendo uma voz por igual atravês de equipararadade nos **Grupos de Estudo e Assembléia de Planejamentos**
+- Sempre ter união e respeitando a minoria representada, tendo uma voz através de equiparar  nos **Grupos de Estudo** e **Assembléia de Planejamentos.**
