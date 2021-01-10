@@ -16,6 +16,8 @@
 ## Mídias sociais
 
 Para divulgação dos projetos, a princípio seria legal criar uma organização no Linkedin para colocarmos no nosso perfil, e uma conta no Twitter.
+
+Grupo do telegram
   
 ## Criação do E-mail no Gmail
 
@@ -27,11 +29,11 @@ Procedimentos criado no decorrer das atividades, todos documentados no wiki
 
 ## Comissão do código de conduta
 
-<BR><BR>
+<BR>
 
 ## Comissão do logo
 
-<BR><BR>
+<BR>
 
 ## Primeiro Grupo de Estudo
 
@@ -44,3 +46,6 @@ No semi-termino do código de conduta, podemos criar o nosso primeiro grupo de e
 - Expandir para apoiá mais formações de grupo de estudo no Brasil
 - Divulgação de Projetos Científicos, Profissionais e Prêmio de Mulheres Inspiradoras
 - Sempre ter união e respeitando a minoria representada, tendo uma voz através de equiparidade nos **Grupos de Estudo** e **Assembléia de Planejamentos.**
+
+
+- [Website site](https://eletronicagirls.github.io/)
