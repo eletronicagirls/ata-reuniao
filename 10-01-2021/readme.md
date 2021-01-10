@@ -42,5 +42,5 @@ No semi-termino do código de conduta, podemos criar o nosso primeiro grupo de e
 - Ter um domínio web
 - E-mail profissional atrelado ao domínio
 - Expandir para apoiá mais formações de grupo de estudo no Brasil
-- Divulgação de Projetos Científicos e Profissionais e Prêmio de Mulheres que Inspiradoras
-- Sempre ter união e respeitando a minoria representada, tendo uma voz através de equiparar  nos **Grupos de Estudo** e **Assembléia de Planejamentos.**
+- Divulgação de Projetos Científicos, Profissionais e Prêmio de Mulheres Inspiradoras
+- Sempre ter união e respeitando a minoria representada, tendo uma voz através de equiparidade nos **Grupos de Estudo** e **Assembléia de Planejamentos.**
