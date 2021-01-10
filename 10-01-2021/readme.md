@@ -2,9 +2,9 @@
 
 **Presentes:**
 
-|Nome:  |localidade:   |Github:   |@usuario_telegram  | 
+|Nome:  |localidade:   |Github:   | 
 |---|---|---|---|
-|Daviny Vidal   |São Paulo - SP   |davinyvidal   |@devdaviny   |
+|Daviny Vidal   |São Paulo - SP   |davinyvidal   |
 |   |   |   |   |
 |   |   |   |   |
 
