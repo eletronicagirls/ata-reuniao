@@ -23,7 +23,7 @@ Para divulgação dos projetos, a princípio seria legal criar uma organização
  
  > Twitter: https://twitter.com/eletronicagirls
  
- > Linkedin: https://www.linkedin.com/company/eletr%C3%B4nica-girls
+ > Linkedin: https://www.linkedin.com/company/eletronica-girls
  
  > Telegram (sem link de acesso, para termo mais controle no acesso ao grupo)
   
